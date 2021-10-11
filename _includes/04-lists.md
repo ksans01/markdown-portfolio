@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+1. BBQ 
+2. DIY Projects
+   - Wood working
+   - Yard work
+3. Exercise
+   - Running
+   - Swimming
+   - Weight lifting
