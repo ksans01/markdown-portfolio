@@ -1,1 +1,1 @@
-![GitHub](https://github.com/ksans01)
+![GitHub](http://github.com/ksans01)
